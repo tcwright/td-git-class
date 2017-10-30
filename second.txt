@@ -1,1 +1,6 @@
 my second text file
+adding something
+
+something else
+
+new stuff....
