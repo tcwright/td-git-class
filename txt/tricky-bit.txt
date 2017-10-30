@@ -2,7 +2,7 @@ this is a difficult feature
 
 something works but ...
 
-there *was* a bug
+there is a bug
 
 
 ... the rest still works
